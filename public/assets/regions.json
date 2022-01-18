@@ -1,0 +1,57 @@
+[
+    {
+        "long": "North America",
+        "short": "NA1",
+        "region": "americas"
+    },
+    {
+        "long": "Latin America North",
+        "short": "LA1",
+        "region": "americas"
+    },
+    {
+        "long": "Latin America South",
+        "short": "LA2",
+        "region": "americas"
+    },
+    {
+        "long": "Europe Nordic & East",
+        "short": "EUN1",
+        "region": "europe"
+    },
+    {
+        "long": "Europe West",
+        "short": "EUW1",
+        "region": "europe"
+    },
+    {
+        "long": "Oceania",
+        "short": "OC1",
+        "region": "americas"
+    },
+    {
+        "long": "Brazil",
+        "short": "BR1",
+        "region": "americas"
+    },
+    {
+        "long": "Turkey",
+        "short": "TR1",
+        "region": "europe"
+    },
+    {
+        "long": "Russia",
+        "short": "RU",
+        "region": "europe"
+    },
+    {
+        "long": "Japan",
+        "short": "JP1",
+        "region": "asia"
+    },
+    {
+        "long": "Republic of Korea",
+        "short": "KR",
+        "region": "asia"
+    }
+]
